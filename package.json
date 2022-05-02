@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Third project for launchX",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-gp99/Twitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-gp99/Twitter/issues"
+  },
+  "homepage": "https://github.com/victor-gp99/Twitter#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
